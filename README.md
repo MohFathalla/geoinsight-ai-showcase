@@ -3,6 +3,13 @@
 </p>
 
 # GeoInsight AI
+
+
+### Technology Snapshot
+
+**Python • FastAPI • scikit-learn • pandas • NumPy • SQLite • Explainable AI • REST API**
+
+**Focus:** Geospatial AI • Predictive Analytics • Anomaly Detection • Field Optimization
 ## Predictive Geospatial Intelligence for Smarter Field Operations
 
 > **From historical incidents to explainable predictions, priorities and proactive field decisions.**
