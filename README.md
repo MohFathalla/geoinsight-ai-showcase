@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.png" alt="GeoInsight AI — Predictive Geospatial Intelligence" width="100%">
+</p>
+
 # GeoInsight AI
 ## Predictive Geospatial Intelligence for Smarter Field Operations
 
